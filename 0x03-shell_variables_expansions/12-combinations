@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -e o{a..n}"\n" o{p..z}"\n"
+
