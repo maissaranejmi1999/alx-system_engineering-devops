@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-SERVER_ADDRESS="100.26.153.200"
-ssh -i ~/.ssh/school ubuntu@$SERVER_ADDRESS
+ssh -i ~/.ssh/school ubuntu@100.26.153.200
